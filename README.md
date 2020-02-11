@@ -2,6 +2,8 @@
 
 El dataset que voy a tratar contiene información de campañas de marketing bancarias y el approach que quiero darle a este notebook es un approach de predicción de conversión de clientes a un producto determinado dado ciertos inputs.
 
+dataset extraído de: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/bank+marketing)
+
 
 ### Prerequisites
 
